@@ -16,6 +16,10 @@ This project demonstrates the implementation of a Library Management System usin
 - Table Creation: Created tables for branches,  employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
 
 
+## Author Ubaid Ul Hassan
+
+- linkedin (linkedin.com/in/ubaid-ul-hassan-773047283)
+
 
 
 
